@@ -35,8 +35,8 @@ Automatic KG Expansion/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/automatic-kg-expansion.git
-cd automatic-kg-expansion
+git clone https://github.com/zhayong0208/HAS-KG.git
+cd Automatic Kg Expansion
 ```
 
 2. Install dependencies:
