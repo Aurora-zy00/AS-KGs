@@ -105,3 +105,14 @@ Training results are saved in the `checkpoints/`, including:
 - `config.json`: Training configuration
 - `loss_curve.png`: Training loss visualization
 - `results.txt`: Evaluation results
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- [PyTorch](https://pytorch.org/) for the underlying deep learning framework
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) for pre‑trained models and tokenizer utilities
+- [SeqEval](https://github.com/chakki-works/seqeval) for sequence‑labeling evaluation metrics
+- [Matplotlib](https://matplotlib.org/) for training curve visualization
