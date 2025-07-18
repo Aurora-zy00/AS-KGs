@@ -90,6 +90,10 @@ To train these models, use the [DeepKE](https://github.com/zjunlp/DeepKE) framew
    ```
 
 3. **Vocabulary Files**:
+   - `Data processing` Refer to our published article
+   - `Data annotation` Annotate according to the annotation format recommended by DeepKE
+
+4. **Vocabulary Files**:
    - `vocab.pkl` files are generated during the training process
    - `relation.csv` should contain your domain-specific relation types
 
