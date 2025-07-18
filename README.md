@@ -13,25 +13,25 @@ Only the portions that the authors have chosen to release publicly are included 
 
 ```
 HAS-KG
-├── 1. Knowledge Extraction & Model Training
+├── (1) Knowledge Extraction & Model Training
 │   └── BERT-BiLSTM-CRF/ # High-precision NER (baseline vs. DeepKE)
-├── 2. Knowledge Graph Construction & Expansion  
+├── (2) Knowledge Graph Construction & Expansion  
 │   └── Automatic-KG-Expansion/   # Automated KG expansion pipeline
-└── 3. Knowledge Application & Querying
+└── (3) Knowledge Application & Querying
     └── KG-Enhanced-QA/           # Question-answering system
 ```
 
 ##  2.System Components
 
-### 1. BERT-BiLSTM-CRF
+### (1) BERT-BiLSTM-CRF
 - High-precision entity recognition from building design codes and regulations
 - For setup and usage, see the **README** inside `BERT-BiLSTM-CRF/`
 
-### 2. Automatic KG Expansion
+### (2) Automatic KG Expansion
 - Automated pipeline for continuous knowledge graph expansion
 - For setup and usage, see the **README** inside `Automatic-KG-Expansion/`
 
-### 3. KG-Enhanced QA
+### (3) KG-Enhanced QA
 - Natural language interface for knowledge retrieval and reasoning
 - For setup and usage, see the **README** inside `KG-Enhanced-QA/`
 
@@ -39,12 +39,12 @@ HAS-KG
 
 Our approach follows a systematic pipeline:
 
-1. **Core Corpus Construction**: Authoritative building design codes form the foundational dataset(see specific papers for details)
-2. **Deep Learning Models**: Unified domain dataset with high-precision NER and RE models
-3. **Automated Expansion**: Dynamic pipeline that assimilates new clauses while preserving interpretability
-4. **QA System Development**: KG and LLM-based natural language retrieval and reasoning
-5. **BIM Integration**: Compliance checking module connecting QA system with BIM models *(workflow described in the paper)*  
-6. **Validation**: Scenario-based applications demonstrating effectiveness *(full results in the publication)* 
+-  **Core Corpus Construction**: Authoritative building design codes form the foundational dataset(see specific papers for details)
+-  **Deep Learning Models**: Unified domain dataset with high-precision NER and RE models
+-  **Automated Expansion**: Dynamic pipeline that assimilates new clauses while preserving interpretability
+-  **QA System Development**: KG and LLM-based natural language retrieval and reasoning
+-  **BIM Integration**: Compliance checking module connecting QA system with BIM models *(workflow described in the paper)*  
+-  **Validation**: Scenario-based applications demonstrating effectiveness *(full results in the publication)* 
 
 ## 4.Usage Scenarios
 
