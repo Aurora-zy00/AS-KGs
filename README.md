@@ -1,4 +1,4 @@
-# Hospital Architectural Spatial Knowledge Graph (HAS-KG)
+# Hospital Architectural Spatial Knowledge Graph (HAS-KG): A Framework for Incremental Construction and Scenario Applications Enabled by Generative AI and BIM
 
 > ⚠️ **Notice**  
 This repository is associated with an academic paper that is currently under peer review. Until the paper is officially published and this statement is removed, all contents in this repository are strictly for review and archival purposes only.  
