@@ -23,15 +23,15 @@ HAS-KG
 
 ##  System Components
 
-### 1. BERT-BiLSTM-CRF - Named Entity Recognition
+### 1. BERT-BiLSTM-CRF
 - High-precision entity recognition from building design codes and regulations
 - For setup and usage, see the **README** inside `BERT-BiLSTM-CRF/`
 
-### 2. Automatic KG Expansion - Knowledge Graph Construction
+### 2. Automatic KG Expansion
 - Automated pipeline for continuous knowledge graph expansion
 - For setup and usage, see the **README** inside `Automatic-KG-Expansion/`
 
-### 3. KG-Enhanced QA - Question Answering System
+### 3. KG-Enhanced QA
 - Natural language interface for knowledge retrieval and reasoning
 - For setup and usage, see the **README** inside `KG-Enhanced-QA/`
 
