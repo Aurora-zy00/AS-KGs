@@ -37,7 +37,7 @@ Automatic KG Expansion/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zhayong0208/HAS-KG.git
+git clone https://github.com/Aurora-zy00/HAS-KG.git
 cd automatic-kg-expansion
 ```
 
