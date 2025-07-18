@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Contact
 
 For questions about this research or collaboration opportunities, please contact:
-- Email: [zhayong0208@tongji.edu.cn]
-- GitHub: [@zhayong0208](https://github.com/zhayong0208)
+- Email: [zhayong0208@gmail.com]
+- GitHub: [@Aurora-zy00](https://github.com/Aurora-zy00)
 
 ---
