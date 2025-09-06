@@ -1,9 +1,9 @@
-# Hospital Architectural Spatial Knowledge Graph (HAS-KG): A Framework for Incremental Construction and Scenario Applications Enabled by Generative AI and BIM
+# A Framework for Incremental Construction and Scenario-Based Applications of Architectural Spatial Knowledge Graphs Enabled by Generative AI and BIM: Hospitals as a Representative Use Case
 
 > ⚠️ **Notice**  
 This repository is associated with an academic paper that is currently under peer review. Until the paper is officially published and this statement is removed, all contents in this repository are strictly for review and archival purposes only.  
 
-This repository accompanies the paper “Hospital Architectural Spatial Knowledge Graph: A Framework for Incremental Construction and Scenario Applications Enabled by Generative AI and BIM.” 
+This repository accompanies the paper “A Framework for Incremental Construction and Scenario-Based Applications of Architectural Spatial Knowledge Graphs Enabled by Generative AI and BIM: Hospitals as a Representative Use Case” 
 It contains three loosely‑coupled sub‑projects that together cover automatic knowledge acquisition, information extraction, and knowledge‑graph‑enhanced question answering.
 
 ##  1.Framework Overview
