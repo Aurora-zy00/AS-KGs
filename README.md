@@ -46,7 +46,7 @@ Our approach follows a systematic pipeline:
 -  **BIM Integration**: Compliance checking module connecting QA system with BIM models *(workflow described in the paper)*  
 -  **Validation**: Scenario-based applications demonstrating effectiveness *(full results in the publication)* 
 
-## 4.Usage Scenarios
+##  4.Usage Scenarios
 
 ### (1) Model Training and Evaluation
 - Train custom NER models on hospital architectural texts
@@ -68,20 +68,20 @@ Our approach follows a systematic pipeline:
 - Assist compliance verification
 - Support design decision-making  
 
-## 5.Key Contributions
+##  5.Key Contributions
 
 - **Incremental Construction**: Dynamic knowledge graph that evolves with new regulations
 - **Multi-modal Integration**: Connection between text processing, graph databases, and BIM
 - **Intelligent Querying**: Natural language interface with advanced reasoning capabilities
 - **Practical Applications**: Real-world scenario applications in hospital architectural design
 
-## 6.Acknowledgments
+##  6.Acknowledgments
 
 - **Technical Stack**: PyTorch, Transformers, Neo4j, Streamlit, Flask
 - **Domain Expertise**: Hospital architectural design standards and regulations
 - **Open Source**: DeepKE framework for knowledge extraction models
 
-## 7.Contact
+##  7.Contact
 
 For questions about this research or collaboration opportunities, please contact:
 - Email: [zhayong0208@gmail.com]
