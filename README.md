@@ -3,8 +3,8 @@
 > ⚠️ **Notice**  
 This repository is associated with an academic paper that is currently under peer review. Until the paper is officially published and this statement is removed, all contents in this repository are strictly for review and archival purposes only.  
 
-This repository accompanies the paper “A Framework for Incremental Construction and Scenario-Based Applications of Architectural Spatial Knowledge Graphs Enabled by Generative AI and BIM: Hospitals as a Representative Use Case” 
-It contains three loosely‑coupled sub‑projects that together cover automatic knowledge acquisition, information extraction, and knowledge‑graph‑enhanced question answering.
+This repository accompanies the paper “A Framework for Incremental Construction and Scenario-Based Applications of Architectural Spatial Knowledge Graphs (AS-KGs) Enabled by Generative AI and BIM: Hospitals as a Representative Use Case” 
+It contains three loosely coupled sub‑projects that together cover automatic knowledge acquisition, information extraction, and KG‑enhanced question answering.
 
 ##  1.Framework Overview
 
@@ -71,21 +71,17 @@ Our approach follows a systematic pipeline:
 ## 5.Key Contributions
 
 - **Incremental Construction**: Dynamic knowledge graph that evolves with new regulations
-- **Multi-modal Integration**: Seamless connection between text processing, graph databases, and BIM
+- **Multi-modal Integration**: Connection between text processing, graph databases, and BIM
 - **Intelligent Querying**: Natural language interface with advanced reasoning capabilities
 - **Practical Applications**: Real-world scenario applications in hospital architectural design
 
-## 6.License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 7.Acknowledgments
+## 6.Acknowledgments
 
 - **Technical Stack**: PyTorch, Transformers, Neo4j, Streamlit, Flask
 - **Domain Expertise**: Hospital architectural design standards and regulations
 - **Open Source**: DeepKE framework for knowledge extraction models
 
-##  8.Contact
+## 7.Contact
 
 For questions about this research or collaboration opportunities, please contact:
 - Email: [zhayong0208@gmail.com]
