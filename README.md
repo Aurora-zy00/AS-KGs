@@ -1,9 +1,9 @@
-# A Framework for Incremental Construction and Scenario-Based Applications of AS-KGs Enabled by Generative AI and BIM: Hospitals as a Representative Use Case
+# Architectural Spatial Knowledge Graphs: Incremental Development and Scenario-Based Applications Enabled by Generative AI and BIM
 
 > ⚠️ **Notice**  
 This repository is associated with an academic paper that is currently under peer review. Until the paper is officially published and this statement is removed, all contents in this repository are strictly for review and archival purposes only.  
 
-This repository accompanies the paper “A Framework for Incremental Construction and Scenario-Based Applications of Architectural Spatial Knowledge Graphs (AS-KGs) Enabled by Generative AI and BIM: Hospitals as a Representative Use Case” 
+This repository accompanies the paper “Architectural Spatial Knowledge Graphs: Incremental Development and Scenario-Based Applications Enabled by Generative AI and BIM” 
 It contains three loosely coupled sub‑projects that together cover automatic knowledge acquisition, information extraction, and KG‑enhanced question answering.
 
 ##  1.Framework Overview
